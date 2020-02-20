@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+ Hi, my name is Cristian
+
+ I use Aurduino. I like playing video games and hanging out with friends.
